@@ -1,0 +1,73 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  background: url("https://thumbs.gfycat.com/BlushingEagerHerald-max-1mb.gif");
+  height: 100vh;
+}
+
+.main {
+  margin-left: 27%;
+  margin-right: 27%;
+  text-align: center;
+  height: 60%;
+  position: relative;
+  padding-top: 2%;
+}
+
+#input {
+  position: relative;
+  -webkit-box-shadow: 0 0 1px 1px #686565;
+          box-shadow: 0 0 1px 1px #686565;
+  width: 55%;
+  outline: none;
+  height: 20%;
+  font-size: 30px;
+  border-radius: 10px 10px 0 0;
+  color: wheat;
+  background: url("https://thumbs.gfycat.com/BlushingEagerHerald-max-1mb.gif");
+}
+
+.one, .two, .three, .four {
+  height: 55px;
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-grid-columns: 90px 90px 90px 90px;
+      grid-template-columns: 90px 90px 90px 90px;
+}
+
+.five {
+  height: 50px;
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-grid-columns: 90px 90px 180px;
+      grid-template-columns: 90px 90px 180px;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  color: white;
+  background: url("https://thumbs.gfycat.com/BlushingEagerHerald-max-1mb.gif");
+  -webkit-box-shadow: 0 0 2px #dad6d6;
+          box-shadow: 0 0 2px #dad6d6;
+  font-size: 20px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: fantasy;
+}
+
+button:hover {
+  color: blue;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+/*# sourceMappingURL=style.css.map */
